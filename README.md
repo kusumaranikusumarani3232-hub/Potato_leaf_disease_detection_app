@@ -87,7 +87,15 @@ streamlit run app.py
 * Training Accuracy: ~93%
 * Validation Accuracy: ~95%
 
----
+---## Dataset
+
+Dataset used from PlantVillage dataset available on Kaggle.
+
+Link:
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+
+----
 
 # 👩‍💻 Author
 
